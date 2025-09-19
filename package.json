@@ -28,10 +28,10 @@
   ],
   "peerDependencies": {
     "@mollie/api-client": "^3.0.0",
-    "@nestjs/common": "^6.0.0"
+    "@nestjs/common": "^10.4.16"
   },
   "devDependencies": {
-    "@nestjs/common": "^6.0.0",
+    "@nestjs/common": "^10.4.16",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^9.2.1",
     "@nestjs/testing": "6.1.1",
